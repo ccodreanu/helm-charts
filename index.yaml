@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  nginx:
+  - apiVersion: v2
+    appVersion: 1.19.10
+    created: "2021-05-09T11:39:39.5163575+02:00"
+    description: Nginx Helm chart
+    digest: cb63f03cf292cba70f0c75e5e41e134e9a30c3f5d9740c2ed3ad1a567ecd6488
+    name: nginx
+    type: application
+    urls:
+    - https://ccodreanu.github.io/helm-charts/nginx-0.0.1.tgz
+    version: 0.0.1
+generated: "2021-05-09T11:39:39.5151414+02:00"
