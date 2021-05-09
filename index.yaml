@@ -3,9 +3,9 @@ entries:
   nginx:
   - apiVersion: v2
     appVersion: 1.19.10
-    created: "2021-05-09T14:31:50.168127141Z"
+    created: "2021-05-09T14:48:57.966033862Z"
     description: Nginx Helm chart
-    digest: 98fe5b192cf76050833b802f32669bfdac4067de54a40a22a9cb25668c6b4a75
+    digest: 86e07ae8b62349950d61325b97a161ef11db6fd2ffe63276d895e51d6dc3184a
     name: nginx
     type: application
     urls:
@@ -13,7 +13,7 @@ entries:
     version: 0.0.2
   - apiVersion: v2
     appVersion: 1.19.10
-    created: "2021-05-09T14:31:50.167896941Z"
+    created: "2021-05-09T14:48:57.965294553Z"
     description: Nginx Helm chart
     digest: f914a12e2d1e78a68938d6c9af75f38670f5dd633263dbe60f6f2ccab56e5893
     name: nginx
@@ -21,4 +21,4 @@ entries:
     urls:
     - https://ccodreanu.github.io/helm-charts/nginx-0.0.1.tgz
     version: 0.0.1
-generated: "2021-05-09T14:31:50.167443542Z"
+generated: "2021-05-09T14:48:57.964658046Z"
